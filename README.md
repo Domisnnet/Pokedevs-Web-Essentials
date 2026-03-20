@@ -78,6 +78,9 @@ O projeto completo, incluindo assets e arquivos de configuração, está dispon�
 ```bash
 # Clone este repositório
 $ git clone [https://github.com/Domisnnet/Pokedevs.git](https://github.com/Domisnnet/Pokedevs.git)
+
+#Acessar a pasta
+cd Pokedevs
 ```
 
 ---
@@ -89,10 +92,17 @@ Deseja adicionar um novo Pokedev? Siga o fluxo abaixo:
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
 | **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Pokedevs/fork) |
-| **02** | **Branch** | `git checkout -b feat/novo-pokedev` |
-| **03** | **Commit** | `git commit -m '''feat: adiciona pokedev de backend'''` |
-| **04** | **Push** | `git push origin feat/novo-pokedev` |
+| **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
+| **03** | **Commit** | `git commit -m 'feat: nova seção de álbuns'` |
+| **04** | **Push** | `git push origin feature/MinhaMelhoria` |
 | **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Pokedevs/compare) |
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Pokedevs/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Pokedevs/issues/new)
+
 
 ---
 
@@ -149,4 +159,6 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
+<a href="https://github.com/Domisnnet"> 
+    <img src="src/imagens/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
