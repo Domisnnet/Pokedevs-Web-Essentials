@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
+
 <h2 id="sobre-o-projeto">1. 🚀 Pokedevs - Arquétipos de Devs 🚀</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
