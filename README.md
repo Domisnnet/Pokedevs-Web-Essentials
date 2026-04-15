@@ -37,7 +37,7 @@ O projeto pode ser acessado através dos seguintes links:
 
 | Ambiente | Link de Acesso | Descrição |
 | :--- | :---: | :--- |
-| **GitHub Pages** | <a href="https://domisnnet.github.io/Pokedevs-Web-Essentilas/" target="_blank"><img alt="Acessar GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-LIVE-181717?style=for-the-badge&logo=github"></a> | **Versão Principal.** Hospedado diretamente do código na branch `main`. |
+| **GitHub Pages** | <a href="https://github.com/Domisnnet/Pokedevs-Web-Essentials" target="_blank"><img alt="Acessar GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-LIVE-181717?style=for-the-badge&logo=github"></a> | **Versão Principal.** Hospedado diretamente do código na branch `main`. |
 | **Firebase Hosting** | <a href="https://pokedevs-01319317-5da45.web.app" target="_blank"><img alt="Acessar Firebase" src="https://img.shields.io/badge/Firebase-LIVE-FFCA28?style=for-the-badge&logo=firebase"></a> | **Ambiente de Deploy.** Hospedado a partir do build gerado na pasta `public`. |
 
 
