@@ -134,7 +134,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Explore a estrutura das pastas e os arquivos de lógica aqui:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Pokedevs--Web--Essentials-blue?style=for-the-badge&logo=github)](https://domisnnet.github.io/Pokedevs-Web-Essentials/)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FPokedevs--Web--Essentials-blue?style=for-the-badge&logo=github&labelColor=0d1117)](https://domisnnet.github.io/Pokedevs-Web-Essentials/)
 
 ---
 
