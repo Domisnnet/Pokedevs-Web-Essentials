@@ -1,7 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
-
 <h2 id="sobre-o-projeto">1. 🚀 Pokedevs - Arquétipos de Devs 🚀</h2>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML5%20%7C%20CSS3%20%7C%20JS-blue)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/pokedevs/blob/main/LICENSE)
@@ -134,7 +135,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Explore a estrutura das pastas e os arquivos de lógica aqui:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Fpokedevs-Web-Essentials-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Pokedevs)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FPokedevs--Web--Essentials-blue?style=for-the-badge&logo=github&labelColor=0d1117)](https://domisnnet.github.io/Pokedevs-Web-Essentials/)
 
 ---
 
