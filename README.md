@@ -1,8 +1,9 @@
-<h2 id="sobre-o-projeto">1. 🚀 Pokedevs - Arquétipos de Devs 🚀</h2>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
+
+<h2 id="sobre-o-projeto">1. 🚀 Pokedevs - Arquétipos de Devs 🚀</h2>
+
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML5%20%7C%20CSS3%20%7C%20JS-blue)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/pokedevs/blob/main/LICENSE)
