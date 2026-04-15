@@ -1,86 +1,110 @@
-<h2 id="sobre-o-projeto">1. 🚀 Pokedevs - Arquétipos de Devs 🚀</h2>
+# 🚀 Pokedevs — Arquétipos de Desenvolvedores
 
-![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
-![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML5%20%7C%20CSS3%20%7C%20JS-blue)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/pokedevs/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/domisnnet/Pokedevs-Web-Essentials?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-![Pokedevs](src/imagens/pokedevs.png)
-
-Bem-vindo ao **Pokedevs**! Um projeto interativo que transforma arquétipos de desenvolvedores em personagens inspirados no universo Pokémon. Desenvolvido durante a "Semana do Zero ao Programador Contratado", este projeto foca em lógica de programação e manipulação de DOM para criar uma experiência imersiva.
+![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
+![Deploy](https://img.shields.io/badge/Deploy-GitHub%20Pages-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 📚 Tabela de Conteúdo
 
-| 🎮 O Projeto | 🛠️ Técnico | 🤝 Comunidade |
-| :---: | :---: | :---: |
-| [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
-| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Repositório](https://img.shields.io/badge/6%20-%20Repo-009688)](#codigo-fonte) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
-| [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
-| [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
+| # | Seção |
+|:-:|:--|
+| 1 | [🎮 Sobre o Projeto](#1--sobre-o-projeto) |
+| 2 | [🔥 Experimente agora](#2--experimente-agora) |
+| 3 | [🎥 Demonstração](#3--demonstração) |
+| 4 | [⚙️ Tecnologias Utilizadas](#4-️-tecnologias-utilizadas) |
+| 5 | [🧩 Funcionalidades](#5--funcionalidades) |
+| 6 | [💻 Destaques Técnicos](#6--destaques-técnicos) |
+| 7 | [🏗️ Arquitetura do Projeto](#7-️-arquitetura-do-projeto) |
+| 8 | [📈 Aprendizados](#8--aprendizados) |
+| 9 | [🔮 Melhorias Futuras](#9--melhorias-futuras) |
+| 10 | [📂 Como Rodar Localmente](#10--como-rodar-localmente) |
+| 11 | [🤝 Contribuição](#11--contribuição) |
+| 12 | [🐛 Issues](#12--issues) |
+| 13 | [🧠 FAQ](#13--faq) |
+| 14 | [📝 Créditos](#14--créditos) |
+| 15 | [📄 Licença](#15--licença) |
+| 16 | [👨‍💻 Autor](#16--autor) |
 
 ---
 
-<h2 id="tecnologias-utilizadas">2. ⚙️ Tecnologias Utilizadas</h2>
+## 1. 🎮 Sobre o Projeto
 
-| Camada | Tecnologias | Descrição |
-| :--- | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Estrutura semântica e estilização de cartões. |
-| **Interatividade** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Manipulação de eventos e troca dinâmica de estados. |
-| **Tipografia** | ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=google&logoColor=white) | Fontes personalizadas para imersão no tema. |
+Bem-vindo ao **Pokedevs** — um projeto interativo que transforma arquétipos de desenvolvedores em personagens inspirados no universo Pokémon.
 
----
+O foco principal é demonstrar:
 
-<h2 id="como-acessar">3. 🚀 Como Acessar</h2>
+- Manipulação de DOM com JavaScript puro  
+- Interatividade sem frameworks  
+- Organização de código frontend  
+- Experiência visual imersiva  
 
-O projeto pode ser acessado através dos seguintes links:
-
-| Ambiente | Link de Acesso | Descrição |
-| :--- | :---: | :--- |
-| **GitHub Pages** | <a href="https://domisnnet.github.io/Pokedevs-Web-Essentials/" target="_blank"><img alt="Acessar GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-LIVE-181717?style=for-the-badge&logo=github"></a> | **Versão Principal.** Hospedado diretamente do código na branch `main`. |
-| **Firebase Hosting** | <a href="https://pokedevs-01319317-5da45.web.app" target="_blank"><img alt="Acessar Firebase" src="https://img.shields.io/badge/Firebase-LIVE-FFCA28?style=for-the-badge&logo=firebase"></a> | **Ambiente de Deploy.** Hospedado a partir do build gerado na pasta `public`. |
-
+> 💡 Projeto desenvolvido durante a **Semana do Zero ao Programador Contratado**
 
 ---
 
-<h2 id="funcionalidades">4. 🧩 Funcionalidades Principais</h2>
+## 2. 🔥 Experimente agora
 
-O projeto combina gamificação com fundamentos de desenvolvimento web:
+👉 https://domisnnet.github.io/Pokedevs-Web-Essentials/  
+👉 https://pokedevs-01319317-5da45.web.app  
 
-| Funcionalidade | Descrição |
+💡 Explore os personagens e tente descobrir o Easter Egg oculto 👀
+
+---
+
+## 3. 🎥 Demonstração
+
+![Preview](src/imagens/pokedevs.png)
+
+---
+
+## 4. ⚙️ Tecnologias Utilizadas
+
+| Camada | Tecnologias |
 | :--- | :--- |
-| 🃏 **Cards Dinâmicos** | Exibição de informações detalhadas (nome, número, descrição) de cada arquétipo. |
-| 🖱️ **Navegação Smart** | Seleção lateral intuitiva que atualiza o conteúdo principal sem recarregar a página. |
-| 📱 **Design Adaptável** | Interface otimizada para diferentes resoluções, garantindo leitura em qualquer dispositivo. |
-| ✨ **Efeitos Visuais** | Transições e animações em CSS para simular a troca de "pokémons". |
+| **Frontend** | HTML5, CSS3 |
+| **Interatividade** | JavaScript |
+| **Tipografia** | Google Fonts |
 
 ---
 
-<h2 id="destaques-tecnicos">5. 💻 Destaques Técnicos</h2>
+## 5. 🧩 Funcionalidades
 
-Nesta seção, destaco os conceitos de engenharia aplicados no projeto:
+- 🃏 Cards dinâmicos de personagens  
+- 🖱️ Navegação interativa sem reload  
+- 📱 Layout responsivo  
+- ✨ Transições e animações CSS  
+- 🥚 Easter Egg secreto  
+
+---
+
+## 6. 💻 Destaques Técnicos
 
 ### ⚡ Manipulação de DOM
-Utilização de `querySelectorAll` e `addEventListener` para gerenciar a lista de personagens, permitindo uma interface reativa e fluida.
+Uso de `querySelectorAll` + `addEventListener` para criar uma UI reativa sem frameworks.
 
 ### 🎨 CSS Modular
-Organização de estilos focada em classes reutilizáveis para os cartões, facilitando a manutenção e a adição de novos personagens.
+Estrutura baseada em reutilização de classes.
 
-### 🥚 Easter Egg
-Implementação de um evento secreto que é ativado após 7 cliques no número do Pokedev, acionando animações e sons especiais como recompensa pela curiosidade do usuário.
+### 🧠 Lógica de Estado
+Controle visual via troca de classes CSS.
 
 ---
 
-<h2 id="repositorio">6. 📂 Repositório</h2>
-
-O projeto completo, incluindo assets e arquivos de configuração, está disponível para consulta pública. Você pode clonar o projeto localmente para estudo:
+## 7. 🏗️ Arquitetura do Projeto
 
 ```bash
-# Clone este repositório
-$ git clone [https://github.com/Domisnnet/Pokedevs-Web-Essentilas.git](https://github.com/Domisnnet/Pokedevs-Web-Essentilas.git)
-
-#Acessar a pasta
-cd Pokedevs-Web-Essentilas
+src/
+ ├── css/
+ ├── js/
+ ├── imagens/
+ └── index.html
 ```
 
 ---
