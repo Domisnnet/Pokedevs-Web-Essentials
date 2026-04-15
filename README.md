@@ -37,7 +37,7 @@ O projeto pode ser acessado através dos seguintes links:
 
 | Ambiente | Link de Acesso | Descrição |
 | :--- | :---: | :--- |
-| **GitHub Pages** | <a href="https://domisnnet.github.io/Pokedevs/" target="_blank"><img alt="Acessar GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-LIVE-181717?style=for-the-badge&logo=github"></a> | **Versão Principal.** Hospedado diretamente do código na branch `main`. |
+| **GitHub Pages** | <a href="https://domisnnet.github.io/Pokedevs-Web-Essentilas/" target="_blank"><img alt="Acessar GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-LIVE-181717?style=for-the-badge&logo=github"></a> | **Versão Principal.** Hospedado diretamente do código na branch `main`. |
 | **Firebase Hosting** | <a href="https://pokedevs-01319317-5da45.web.app" target="_blank"><img alt="Acessar Firebase" src="https://img.shields.io/badge/Firebase-LIVE-FFCA28?style=for-the-badge&logo=firebase"></a> | **Ambiente de Deploy.** Hospedado a partir do build gerado na pasta `public`. |
 
 
@@ -77,10 +77,10 @@ O projeto completo, incluindo assets e arquivos de configuração, está dispon�
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/Domisnnet/Pokedevs.git](https://github.com/Domisnnet/Pokedevs.git)
+$ git clone [https://github.com/Domisnnet/Pokedevs-Web-Essentilas.git](https://github.com/Domisnnet/Pokedevs-Web-Essentilas.git)
 
 #Acessar a pasta
-cd Pokedevs
+cd Pokedevs-Web-Essentilas
 ```
 
 ---
@@ -91,17 +91,17 @@ Deseja adicionar um novo Pokedev? Siga o fluxo abaixo:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Pokedevs/fork) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Pokedevs-Web-Essentilas/fork) |
 | **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
 | **03** | **Commit** | `git commit -m 'feat: nova seção de álbuns'` |
 | **04** | **Push** | `git push origin feature/MinhaMelhoria` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Pokedevs/compare) |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Pokedevs-Web-Essentilas/compare) |
 
 ### 🐛 Encontrou um problema?
 Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
-[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Pokedevs/issues)
-[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Pokedevs/issues/new)
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Pokedevs-Web-Essentilas/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Pokedevs-Web-Essentilas/issues/new)
 
 
 ---
@@ -134,7 +134,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Explore a estrutura das pastas e os arquivos de lógica aqui:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Fpokedevs-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Pokedevs)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FPokedevs-Web-Essentials-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Pokedevs-Web-Essentilas)
 
 ---
 
@@ -153,7 +153,7 @@ O **Pokedevs** foi construído com foco em aprendizado prático:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Pokedevs/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Pokedevs-Web-Essentilas/blob/main/LICENSE)
 
 ---
 
